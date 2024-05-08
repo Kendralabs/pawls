@@ -42,7 +42,7 @@
     "eslint-plugin-promise": "^5.1.0",
     "eslint-plugin-react": "^7.23.2",
     "eslint-plugin-standard": "^5.0.0",
-    "pdfjs-dist": "^2.7.570",
+    "pdfjs-dist": "^4.2.67",
     "prettier": "^2.2.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
